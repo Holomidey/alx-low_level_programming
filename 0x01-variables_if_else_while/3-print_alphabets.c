@@ -3,7 +3,7 @@
 /**
  * main - c program main fuction
  *
- * Retun: 0
+ * Return: 0
 */
 
 int main(void)
@@ -15,5 +15,5 @@ int main(void)
 	for (i = 'A' ; i <= 'Z' ; i++)
 		putchar(i);
 	putchar('\n');
-	return (0);
+	return (i0);
 }
