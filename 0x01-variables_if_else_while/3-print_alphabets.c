@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
- * main - c program
+ * main - c program main fuction
  *
  * Retun: 0
 */
+
 int main(void)
 {
 	char i;
