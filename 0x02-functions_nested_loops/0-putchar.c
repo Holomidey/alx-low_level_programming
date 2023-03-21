@@ -5,7 +5,7 @@
  * Return: 0
  */
 
-int main(coid)
+int main(void)
 {
 _putchar('_');
 _putchar('p');
