@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * main - print _putchar
- * this program is written by holomidey
+ * main - check this code
+ *
  * Return: 0
- */
+*/
 
 int main(void)
 {
