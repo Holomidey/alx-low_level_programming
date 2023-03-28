@@ -4,7 +4,7 @@
  */
 
 void print_alphabet(void);
-i{
+{
 	char letter;
 
 	for (letter = 'a'; letter <= 'Z'; letter++)

@@ -1,11 +1,9 @@
 #include "main"
-
 /**
  * main - print _putchar
  * is written by holomidey
  * Return: 0
  */
-
 int main(void)
 {
 _putchar('_');
